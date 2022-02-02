@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-crawling",
+  "version": "1.0.1",
+  "description": "It allows executing a crawling flow using dynamic commands, through a JSON file, for example.",
+  "main": "build/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelovieira01/npm-dynamic-crawling.git"
+  },
+  "keywords": [
+    "crawling",
+    "dynamic"
+  ],
+  "author": "Marcelo Vieira <marcelo20000@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelovieira01/npm-dynamic-crawling/issues"
+  },
+  "homepage": "https://github.com/marcelovieira01/npm-dynamic-crawling#readme"
+}
